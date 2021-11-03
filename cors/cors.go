@@ -5,8 +5,8 @@ package cors
 //  +------------------------------------------------------------+
 //
 // import (
-//  "gopkg.in/kataras/iris.v6"
-//  "gopkg.in/kataras/iris.v6/adaptors/httprouter"
+//  "github.com/apptness/iris.v6"
+//  "github.com/apptness/iris.v6/adaptors/httprouter"
 //  "github.com/iris-contrib/middleware/cors"
 // )
 //
@@ -17,7 +17,7 @@ package cors
 
 import (
 	"github.com/rs/cors"
-	"gopkg.in/kataras/iris.v6"
+	"github.com/apptness/iris.v6"
 )
 
 // Options is a configuration container to setup the CORS.

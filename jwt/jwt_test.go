@@ -14,9 +14,9 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	jwtmiddleware "github.com/iris-contrib/middleware/jwt"
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"gopkg.in/kataras/iris.v6/httptest"
+	"github.com/apptness/iris.v6"
+	"github.com/apptness/iris.v6/adaptors/httprouter"
+	"github.com/apptness/iris.v6/httptest"
 )
 
 type Response struct {

@@ -94,7 +94,7 @@ app.UseGlobalFunc(func(ctx *iris.Context){}, myMiddleware2)
 package main
 
 import (
-	"gopkg.in/kataras/iris.v6"
+	"github.com/apptness/iris.v6"
 )
 
 func main() {

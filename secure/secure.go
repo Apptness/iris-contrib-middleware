@@ -8,7 +8,7 @@ import (
 	"net"
 	"strings"
 
-	"gopkg.in/kataras/iris.v6"
+	"github.com/apptness/iris.v6"
 )
 
 const (

@@ -20,7 +20,7 @@ $ go get -u github.com/iris-contrib/middleware/secure
 package main
 
 import (
-	"gopkg.in/kataras/iris.v6"
+	"github.com/apptness/iris.v6"
 	"github.com/iris-contrib/middleware/secure"
 )
 

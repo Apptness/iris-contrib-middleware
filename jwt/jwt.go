@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/dgrijalva/jwt-go"
-	"gopkg.in/kataras/iris.v6"
+	"github.com/apptness/iris.v6"
 )
 
 // Iris provides some basic middleware, most for your learning courve.
